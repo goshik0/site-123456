@@ -1,18 +1,12 @@
 <html>
+    <title> skelet </title>
     <body>
-        <header style="background-color:black;color:white">
-    <img src="/uploads/2020/10/boxing-1293088_640_0_1602494675.png" height="50px"/>
-    <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0" style="color:white">История</a>
-        </header>
-        <main style="background-color:lightgrey">
-    <h1 style="font-size:50px;background-color:lightgray; text-align:center">Школа боевых искусств</h1>
-    <img src="/uploads/2020/10/thai-boxing-297023_1280_0_1602496230.png" height="150"/>
-    <p style="font-size:20px">Приглашаем освоить любой из видов рукопашного боя, который вам по душе. У нас представлены: традиционный рукопашный бой, тайский бокс, Джиу-Джитсу, карате и многое другое. Занятия ведут профессиональные тренеры в группах разного уровня.</p>
-    <img src="/uploads/2020/10/karate-4575114_640_0_1602523338.png" height="230px"/><img src="/uploads/2020/10/punching-bag_0_1602525500.png" height="230px"/><img src="/uploads/2020/10/boxing-ring_0_1602525156.png" height="230px"/>
-        </main>
-        <footer style="background-color:black;color:white">
-    <p style="font-size:15px"> Адрес: город Спортивный, ул.Здоровья, 15.</p>
-    <p>Тел.:596-457</p>
-        </footer>
+    <header> biba i boba deti</header>
+    <main>
+        <h1> Наш график работы </h1>
+        <p> 1. с 8:00 до 17:00 </p>
+        <p> 2. обед c 14:00 до 14:35 </p>
+        <p> 3. работь по обязоностям </P>
+    </main>
     </body>
 </html>
